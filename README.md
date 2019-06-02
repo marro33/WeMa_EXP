@@ -7,6 +7,8 @@ WeMa 项目主要功能：
 https://github.com/marro33/WeMa
 
 二维码图片：
+https://raw.githubusercontent.com/marro33/WeMa_EXP/master/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2/%E6%89%AB%E6%8F%8F%E6%A0%B7%E4%BE%8B/%E9%9A%90%E5%BD%A2%E7%A0%81.png
+
 
 实验研究说明——开题报告.pptx
 https://github.com/marro33/WeMa_EXP/blob/master/%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E8%AF%B4%E6%98%8E%E2%80%94%E2%80%94%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A.pptx
